@@ -46,7 +46,7 @@ Jak to akualizovat:
 
 1. Kliknout na `Vybrat` (certifikát) v pravé části obrazovky a vybrat certifikát (=digitální podpis).
 2. Kliknout na tlačítko `Nahrát`, tím se certifikát nahraje do Mews.
-3. Vyplnit pole `Sériové číslo certifikátu` a `Vydavatel certifikátu` podle údajů z emailu s obdrženým ertifikátem.
+3. Vyplnit pole `Sériové číslo certifikátu` a `Vydavatel certifikátu` podle údajů z emailu s obdrženým certifikátem.
 4. Klinout na `Uložit`, aby se údaje uložily v Mews.
 
 <a name="nastaveni-priklad"></a>
